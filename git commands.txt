@@ -3,6 +3,7 @@ git init
 git clone
 git add (filenames seperated by space or to add all .)
 git commit -m "message"
+git remote add origin ssh
 git push origin main/master/branch
 git branch branchname
 git checkout branchname
