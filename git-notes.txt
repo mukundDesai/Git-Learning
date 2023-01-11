@@ -1,0 +1,67 @@
+VCS-GIT
+Why VCS? - To track the changes in files and project within an environment of multiple devs.
+
+VCS answers these 5 questions ----
+1. Who made the changes?
+2. What has changed? 
+3. Where is the change applied? -- not just the file but version and branches as well. 
+4. When was the change made?
+5. Why was the change made?
+
+History of VCS -- local, centralized, decentralized.
+Problem with centralized is that every time the person needs to connect to the server to access data.
+Decentraized or distributed is basically local + centralized.
+In Distributed local machine also works as a server i.e the dev can work on the files even without connecting to the main repo.
+There is a concept of local and centralized repo in decentralized.
+
+Git is a decentralized VCS.
+
+
+git - working directory, staging area and repository 
+staging area - keeps track of what to be next commit(basically after git add it is in staging area)
+after u commit only the local repo keeps the version history. The remote server is not effected.
+
+look into ssh keys
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
