@@ -9,3 +9,6 @@ git branch branchname
 git checkout branchname
 git checkout master
 git merge
+
+when u change branch or when it is the first push in that branch use -u (it means --set-upstream)
+git push -u origin branch
