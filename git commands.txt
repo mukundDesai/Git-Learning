@@ -1,0 +1,10 @@
+git config --global origin 
+git init 
+git clone
+git add (filenames seperated by space or to add all .)
+git commit -m "message"
+git push origin main/master/branch
+git branch branchname
+git checkout branchname
+git checkout master
+git merge
